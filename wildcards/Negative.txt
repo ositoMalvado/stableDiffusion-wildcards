@@ -1,0 +1,92 @@
+abstract
+airbrush
+animated
+artefacts
+artifacts
+b&w
+bad
+bad anatomy
+bad art
+bad eyes
+basic
+bizarre
+black and white
+b&w
+3d
+bad art
+caption
+writing
+signature
+frame
+border
+bizarre
+blurred
+blind
+blur
+blurred
+blurry
+border
+boring
+caption
+cartoon
+child
+childlike
+close up
+cropped
+cut off
+deformed
+disfigured
+draft
+drawing
+duplicate
+error
+fake
+frame
+fuzzy
+glitchy
+grainy
+gross
+grotesque
+hideous
+high pass filter
+horrific
+horrifying
+illustration
+lacklustre
+loathesome
+logo
+long neck
+low quality
+low res
+low resolution
+lowres
+malformed
+mask
+monochrome
+monstrous
+morbid
+mutated
+mutation
+mutilated
+noisy
+out of focus
+out of frame
+out of shot
+poor quality
+poorly drawn
+repetitive
+repulsive
+signature
+sketch
+strange
+text
+tiling
+ugly
+unnatural
+vignette
+watermark
+watermarks
+words
+writing
+zoomed
+zoomed in

@@ -1,43 +1,40 @@
-slasher
-splatter
-gore
-survival
-monster
-supernatural
-ghost
-vampire
-zombie
-werewolf
-demonic
-cannibal
-body horror
-psychological
-psycho-biddy
-gothic
-occult
-haunted house
-ghost story
-urban legend
-eco-horror
-alien
-cosmic
-creature feature
-splatterpunk
-torture porn
-j-horror
-k-horror
-erotic
-comedy horror
-monster comedy
-natural horror
-found footage
-silent horror
-mummy
-occult detective
-apocalyptic
-post-apocalyptic
-dystopian
-science fiction horror
-religious horror
-historical horror
-folk horror
+Abby Howard
+Alan M. Clark
+Alex McVey
+Ashley Wood
+Basil Gogos
+Ben Templesmith
+Bernie Wrightson
+Bob Eggleton
+Caravaggio
+Charles Addams
+Clive Barker
+Dave Dorman
+Dave McKean
+Derek Riggs
+Eldritch
+Emily Carroll
+Eric Millikin
+Frank Wu
+Frazer Irving
+Gahan Wilson
+Gerald Brom
+H. R. Giger
+Jeff Lee Johnson
+Jill Bauman
+John Coulthart
+John Jude Palencar
+John Kenn Mortensen
+John Picacio
+Junji Ito
+Karoly Grosz
+Lee Brown Coye
+Les Edwards
+Otto Dix
+Sam Shearon
+Shinya Kumazaki
+Stephen Gammell
+Stephen Kasner
+Tim Jacobus
+T. M. Wright
+Virgil Finlay

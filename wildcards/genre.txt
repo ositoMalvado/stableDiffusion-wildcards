@@ -1,74 +1,45 @@
-abstract art
-action painting
-aestheticism
-agrarian art
-analytical cubism
-antique lithograph
-art brut
-art deco
-art nouveau
-baroque
-black art
-classicism
-clean vector
-concept
-conceptual art
-cubism
-cyberpunk
-dada
-dark fantasy
-decorative art
-dieselpunk
-enlightenment
-expressionism
-fantasy
-fauvism
-film noir
-fluxus
-folk art
-functional art
-futurism
-gothic
-gothic art
-holography
-hyperrealism
-impressionism
-installation art
-land art
-linocut
-mannerism
-massurrealism
-medieval
-minimalism
-modern art
-monochrome
-naive art
-neo-expressionism
-neo-impressionism
-neo-pop art
-neoclassicism
-new realism
-oil painting
-op art
-orientalism
-painting
-pencil sketch
-photoreal
-pop art
-post-impressionism
-post-impressionist
-post-modern art
-postmodern
-psychedelic
-realism
-renaissance
-romanticism
-sci-fi
-social realism
-steampunk
-surrealism
-symbolism
-tachisme
-victorian
-vintage
-visual art
+American frontier
+American propaganda
+Anime
+Antique lithograph
+Art deco
+Clean vector
+Concept
+Cosmic Horror
+Cyberpunk
+Dark fantasy
+DC comics
+Dieselpunk
+Dystopian
+Enlightenment
+Fantasy
+Fauvism
+Film noir
+Gothic
+Holography
+Horror
+Linocut
+Marvel comics
+Massurrealism
+Medieval
+Monochrome
+Oil painting
+Pencil sketch
+Photoreal
+Post-apocalyptic
+Post-impressionist
+Postmodern
+Psychedelic
+Renaissance
+Retro
+Romance
+Science Fiction
+Sci-fi
+Seapunk
+Solarpunk
+Soviet propaganda
+Steampunk
+Victorian
+Vintage
+Western
+Woodblock

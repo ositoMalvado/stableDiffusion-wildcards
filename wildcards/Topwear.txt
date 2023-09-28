@@ -1,0 +1,58 @@
+blazer
+blouse
+bustier
+camisole
+cardigan
+cardigan vest
+coat
+collared shirt
+corset
+criss-cross halter
+crop top
+cropped jacket
+dress
+dress shirt
+duffel coat
+frilled shirt
+fur coat
+fur-trimmed coat
+halterneck
+hoodie
+jacket
+leather jacket
+letterman jacket
+long coat
+off-shoulder shirt
+overcoat
+peacoat
+poncho
+pullover
+raglan sleeves
+raincoat
+ribbed sweater
+safari jacket
+sash
+shirt
+shoulder sash
+sleeveless shirt
+sleeveless turtleneck
+stole
+striped shirt
+suit jacket
+sweater
+sweater dress
+sweater vest
+t-shirt
+tabard
+tailcoat
+tank top
+transparent raincoat
+trench coat
+tube top
+turtleneck
+unbuttoned shirt
+underbust
+vest
+waistcoat
+winter coat
+yellow raincoat
